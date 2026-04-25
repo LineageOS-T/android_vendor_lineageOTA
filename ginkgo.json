@@ -1,0 +1,17 @@
+{
+	"response": [
+		{
+			"maintainer": "Neophyte",
+			"oem": "Redmi",
+			"device": "Redmi Note 8",
+			"filename": "lineage-20.0-20260424-2354-UNOFFICIAL-Gapps-ginkgo.zip",
+			"download": "https://github.com/LineageOS-T/android_vendor_lineageOTA/releases/download/lineage-20/lineage-20.0-20260424-2354-UNOFFICIAL-Gapps-ginkgo.zip",
+			"timestamp": 1777074756,
+			"md5": "90e5531f7a7b6f3279c03594b50062d2",
+			"sha256": "0c6568b06595474f0f88d683e5fe487c8926bbf523a505641c50fb84ad8362ea",
+			"size": 1212140866,
+			"version": "UNOFFICIAL",
+			"buildtype": "Monthly"
+		}
+	]
+}
